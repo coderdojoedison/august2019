@@ -1,0 +1,5 @@
+Tennis 4
+Golf 6
+Soccer 8
+Badminton 3
+Lacrosse 2
